@@ -1,0 +1,25 @@
+# Virtual Environment
+/.venv
+/Pipfile
+/Pipfile.lock
+
+# Database
+/db.sqlite3
+
+# Environment configuration
+/.env
+/.env.*
+
+# IDE/Editor configuration
+/.vscode
+/.idea
+/.emacs.d
+
+# Compiled Python files
+*.pyc
+
+# Logs
+/logs
+
+# User uploads
+/media
